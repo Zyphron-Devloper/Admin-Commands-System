@@ -3,7 +3,7 @@ This Readme.md is not to be put in Roblox Studio Its just to Tell the Assistant 
 
 This is the format for the Roblox Studio Explorer 
 
-game
+###game
     ReplicatedStorage
         AdminSystem
             Remotes
@@ -77,5 +77,5 @@ game
             AdminClient (LocalScript)
             AdminToggleButton (TextButton)
                 UICorner
-                UIStroke
+                UIStroke###
 
