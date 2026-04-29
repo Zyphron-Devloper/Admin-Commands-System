@@ -1,6 +1,6 @@
 # Roblox Admin System Export
 
-This folder is the Codex-side index for the Roblox Studio admin system built in `Place1`.
+This folder is the index for the Roblox Studio admin system built in 
 
 The actual live scripts are inside Roblox Studio at these Explorer paths:
 
